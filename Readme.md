@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/GridBandedView.Tutorial/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/GridBandedView.Tutorial/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/GridBandedView.Tutorial/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/GridBandedView.Tutorial/MainWindow.xaml.vb))
+<!-- default file list end -->
 # [OBSOLETE] Advanced Banded View Layout with attached behavior
 
 
